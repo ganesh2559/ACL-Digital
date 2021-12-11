@@ -1,0 +1,47 @@
+git command
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(7) to register your username with git
+
+git config --global user.name "Ganesh"
+git config --global user.email "ganesh@gmail.com"
+
+
+(8) to know the git credentails
+show name and email
+ git config --global user.name
+git config --global user.email
+
+git config --list
+
+(9) to know the git commit details
+
+git log
+
+(10)
+ git checkout copy paste commit_id
+
+check previous commit statement
+
+(11) to ignore files use .getignore file
+
+
+git init
+git add .
+git config --global user.name
+git config --global user.email
+gitcommit -m "msg"
+git push <githubURL> master
